@@ -1,0 +1,15 @@
+# Virtual Environment
+my_venv/
+venv/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# SQLite database (optional, but usually ignored in dev)
+db.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+from django.http import HttpResponse
+
+def hello(request):
+    return HttpResponse('<h1>Hello Ian Dave Apellanes</h1><a href="/about/">Go to About</a>')
+
+def about(request):
+    return HttpResponse('<h1>About Page</h1><a href="/">Back to Home</a>')
