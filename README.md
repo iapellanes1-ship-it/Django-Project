@@ -1,2 +1,2 @@
-# Django-Project
-Django project.png
+# Django-Project 1ST ACTIVITY
+
